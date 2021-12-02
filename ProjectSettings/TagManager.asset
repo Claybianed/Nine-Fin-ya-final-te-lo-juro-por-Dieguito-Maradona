@@ -1,0 +1,55 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Liana
+  - Ground
+  - Bellota
+  - Nine
+  - Tronco
+  - Piedra
+  - "Telara\xF1a"
+  - "Pi\xF1a"
+  - Trampa
+  - Barrera
+  - Mapache
+  - Tunel
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - Ground
+  - Tronco
+  - Trigger
+  - Nine
+  - "Pi\xF1a"
+  - Liana
+  - Barrera
+  - Mapache
+  - Tunel
+  - TriggerTexto
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
